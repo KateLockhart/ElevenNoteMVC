@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\ElevenFiftyProjectsSD2020\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
